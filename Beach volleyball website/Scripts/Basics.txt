@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">    
+<head>  
+<title>N.A.O.K Beach volley tournament info</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width", initial-scale="1.0">
+<link rel="stylesheet" href="../style.css">
+<script src="language.js"></script>
+</head>
+<body>
+<div class="header">
+</div>
+<div class="navbar">
+    <a href="index.html" data-i18n="Home">Home</a>
+    <a href="about.html" data-i18n="About">About</a>
+    <a href=""
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScS51vMQ1DqhmGgx7JqNQtyIw-w_UyJARcIoU3veo1hCaDTnQ/viewform?usp=header">Register</a>
+</div>
+
+<div class="row">   
+    <div class="side">
+           </div>
+    <div class="main">
+           </div>
+<div class="footer">
+    <h2>Contact Us</h2>
+    <p>Email:
+        <a href="mailto:tournament@naok.com">tournament@naok.com</a>
+    </p>
+    <p>phone: (+30) 6932323232</p>
+</div>
+</body>
+
+</html>
