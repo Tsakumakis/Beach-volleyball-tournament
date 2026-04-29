@@ -35,26 +35,6 @@ body {
     background-color:#7EB6D2;
     color:black;
 }
-.navbar-btn{
-    overflow:hidden;
-    background-color:#2C3E50
-}
-.navbar-btn a{
-    color:white;
-    float:right;
-    text-align:center;
-    padding:14px 16px;
-    text-decoration:none;
-    display:block;
-}
-.navbar-btn:right{
-    float:right;
-}
-.navbar-btn:hover{
-    background-color:#7EB6D2;
-    color:#000;
-
-}
 *{
     box-sizing: border-box;
 }
@@ -74,7 +54,6 @@ body {
 }
 .footer{
     padding:20px;
-    width:100%;
     text-align:center;
     background-color:rgb(44, 62, 80, 0.8);
     color:white;
