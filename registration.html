@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="el">    
+<head>  
+    <title>Registration - N.A.O.K Beach Volley</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <script src="languages.js"></script>
+</head>
+<body>
+
+<div class="header">
+    <h1 data-i18n="registration-title">Tournament Registration</h1>
+    <p data-i18n="registration-subtitle">Επιλέξτε κατηγορία και συμπληρώστε τη φόρμα</p>
+</div>
+
+<div class="navbar">
+    <a href="index.html" data-i18n="home">Home</a>
+    <a href="about.html" data-i18n="about">About</a>
+    <a href="registration.html" data-i18n="register" class="active">Register</a>
+    <div class="navbar-btn" style="float:right">
+        <button onclick="setLanguage('en')" class="lang-btn">🇬🇧 EN</button>
+        <button onclick="setLanguage('el')" class="lang-btn">🇬🇷 EL</button>
+    </div>
+</div>
+
+<div class="row">   
+    <div class="main-content">
+        <h2 data-i18n="select-category" style="text-align:center; margin-bottom: 30px;">Select Category</h2>
+        
+        <div class="registration-container">
+            <div class="category-card">
+                <h3 data-i18n="cat-mens">Men's Tournament</h3>
+                <p class="experience-note" data-i18n="competitive-note">
+                    Ανταγωνιστικό επίπεδο
+                </p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScS51vMQ1DqhmGgx7JqNQtyIw-w_UyJARcIoU3veo1hCaDTnQ/viewform?usp=dialog" target="_blank" class="reg-button" data-i18n="register-now">Register</a>
+            </div>
+
+            <div class="category-card">
+                <h3 data-i18n="cat-womens">Women's Tournament</h3>
+                <p class="experience-note" data-i18n="competitive-note">
+                    Ανταγωνιστικό επίπεδο
+                </p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIUpEt9l2Mt-S5WctrHejuS7OQ4tbezTvry7h-TGuXCxmwiw/viewform?usp=publish-editor" target="_blank" class="reg-button" data-i18n="register-now">Register</a>
+            </div>
+            <div class="category-card">
+                <h3 data-i18n="cat-mixed">Mixed Tournament</h3>
+                <p class="experience-note" data-i18n="fun-note">
+                    Ανοιχτό για όλα τα επίπεδα! Ιδανικό για διασκέδαση.
+                </p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNuwkr7Sf3QZHl4Gx98Fl0er0NuGcA5Al35qXrplb64uihRQ/viewform?usp=publish-editor" target="_blank" class="reg-button" data-i18n="register-now">Register</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+    <h2 data-i18n="contact-us">Contact Us</h2>
+    <p>Email: <a href="mailto:tournament@naok.com">tournament@naok.com</a></p>
+</div>
+
+</body>
+</html>
