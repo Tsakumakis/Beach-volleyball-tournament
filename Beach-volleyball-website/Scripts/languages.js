@@ -32,6 +32,8 @@ const translations = {
         'place-time-title': 'Place and time',
         'place-time-text': 'The tournament will be during the 23rd-24th of May (May 23rd for Co-ed and May 24th for Men\'s and Women\'s categories). The time of the matches will be from 9am to 5pm.',
         
+        //registration section
+
         //Contact us section
         'contact-us':'Contact us',
         'telephone':'phone'
