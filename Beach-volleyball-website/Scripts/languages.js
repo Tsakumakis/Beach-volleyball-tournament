@@ -2,7 +2,7 @@ const translations = {
     'en': {
         // Navigation & General
         'welcome-under-main': 'We are excited to announce our first tournament!',
-        'welcome': 'Welcome to the N.A.O.K Beach Volleyball Tournament',
+        'welcome': 'Welcome to the Ionian University Beach Volleyball Tournament',
         'home': 'Home',
         'about': 'About',
         'register': 'Register',
@@ -42,13 +42,13 @@ const translations = {
 
     'el': {
         // Navigation & General
-        'welcome': 'Καλώς ήρθατε στο Τουρνουά Beach Volley του Ν.Α.Ο.Κ',
+        'welcome': 'Καλώς ήρθατε στο Τουρνουά Beach Volley του Ιονίου Πανεπιστημίου',
         'home': 'Αρχική',
         'about': 'Πληροφορίες',
         'register': 'Εγγραφή',
-        'side-main': 'Εδώ μπορείτε να βρείτε όλες τις πληροφορίες για το τουρνουά όπως τους κανόνες, τις ημερομηνίες και οδηγίες εγγραφής. Μείνετε συντονισμένοι για ενημερώσεις!',
+        'side-main': 'Μπορείτε να βρείτε οτι χρειάζεστε στο "Πληροφορίες". Επίσης διαβάστε τους κανονισμούς του παιχνιδιού και ενημερωθείτε για τις ημερομηνίες έναρξης καθώς και για τις οδηγίες εγγραφής.',
         'welcome-under-main': 'Είμαστε ενθουσιασμένοι που ανακοινώνουμε το πρώτο μας τουρνουά!',
-        'main-main': 'Πριν την εγγραφή, παρακαλούμε διαβάστε τους κανόνες και τις συχνές ερωτήσεις στις "Πληροφορίες". Μη διστάσετε να μας καλέσετε αν έχετε οποιαδήποτε ερώτηση.',
+        'main-main': 'Μείνετε συντονισμένοι για ενημερώσεις!! Μη διστάσετε να μας καλέσετε αν έχετε οποιαδήποτε ερώτηση.',
         
         // About Us Section
         'about-title': 'Σχετικά με εμάς',
