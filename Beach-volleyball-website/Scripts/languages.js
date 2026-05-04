@@ -6,8 +6,8 @@ const translations = {
         'home': 'Home',
         'about': 'About',
         'register': 'Register',
-        'side-main': 'Here you can find all the information about the tournament, including rules, schedule, and registration details. Stay tuned for updates and get ready to compete!',
-        'main-main': 'Before registration, please read the rules and other F.A.Q. in the about section; don’t hesitate to call us if you want to ask a question.',
+        'side-main': 'You can find everything you need in the "About" section. Make sure to read the tournament rules, check the start dates, and follow the registration instructions.',
+        'main-main': 'Do not hesitate to call us if you have any questions. Stay tuned for more updates!',
         
         // About Us Section
         'about-title': 'About us',
