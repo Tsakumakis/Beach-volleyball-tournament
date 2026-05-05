@@ -11,7 +11,7 @@ const translations = {
         
         // About Us Section
         'about-title': 'About us',
-        'about-text': 'We are a small team that is trying to "revive" volleyball in Corfu. By doing this tournament, we enhance the volleyball community of our island and hopefully make new players fall in love with the sport.',
+        'about-text': 'We are a small university team that is trying to "revive" volleyball in Corfu. By doing this tournament, we enhance the volleyball community of our island and hopefully make new players fall in love with the sport.',
         'reg-info-title': 'Registration Info',
         'reg-info-text': 'To register for the tournament, please fill out the registration form available on our website. The form will require you to provide your team name, player names, contact information, and any relevant details about your team. Once you have submitted the form, you will be notified when you are going to play in 2 weeks. It is also important to tell us if you played in an indoor team or have participated in a tournament in the past.',
         'advice-title': 'Advice',
@@ -30,6 +30,7 @@ const translations = {
         'coed-rule-3': 'No limitation play, play however you want.',
         'coed-rule-4': 'The same rules as Men\'s and Women\'s categories will be applied.',
         'place-time-title': 'Place and time',
+
         'place-time-text': 'The tournament will be held in N.A.O.K during the 23rd-24th of May (May 23rd for Co-ed and May 24th for Men\'s and Women\'s categories). The time of the matches will be from 9am to 5pm.',
         
         //registration section
@@ -52,7 +53,7 @@ const translations = {
         
         // About Us Section
         'about-title': 'Σχετικά με εμάς',
-        'about-text': 'Είμαστε μια μικρή ομάδα που προσπαθεί να "αναβιώσει" το βόλεϊ στην Κέρκυρα. Με τη διοργάνωση αυτού του τουρνουά, ενισχύουμε την κοινότητα του βόλεϊ στο νησί μας και ελπίζουμε να κάνουμε νέους παίκτες να αγαπήσουν το άθλημα.',
+        'about-text': 'Είμαστε μια μικρή ομάδα φοιτητών που προσπαθεί να "αναβιώσει" το βόλεϊ στην Κέρκυρα. Με τη διοργάνωση αυτού του τουρνουά, ενισχύουμε την κοινότητα του βόλεϊ στο νησί μας και ελπίζουμε να κάνουμε νέους παίκτες να αγαπήσουν το άθλημα.',
         'reg-info-title': 'Πληροφορίες Εγγραφής',
         'reg-info-text': 'Για να εγγραφείτε στο τουρνουά, συμπληρώστε τη φόρμα εγγραφής που είναι διαθέσιμη στην ιστοσελίδα μας. Θα χρειαστεί να δηλώσετε το όνομα της ομάδας, τα ονόματα των παικτών και στοιχεία επικοινωνίας. Μόλις υποβάλετε τη φόρμα, θα ενημερωθείτε για το πρόγραμμα των αγώνων σας σε 2 εβδομάδες. Είναι επίσης σημαντικό να μας πείτε αν έχετε παίξει σε ομάδα σάλας ή σε κάποιο τουρνουά στο παρελθόν.',
         'advice-title': 'Συμβουλή',
@@ -71,6 +72,7 @@ const translations = {
         'coed-rule-3': 'Ελεύθερο παιχνίδι, παίξτε όπως επιθυμείτε.',
         'coed-rule-4': 'Θα εφαρμόζονται οι ίδιοι βασικοί κανόνες με τις κατηγορίες Ανδρών/Γυναικών.',
         'place-time-title': 'Τόπος και Χρόνος',
+
         'place-time-text': 'Το τουρνουά θα πραγματοποιηθεί στον N.A.O.K στις 23-24 Μαΐου (23 Μαΐου το Co-ed και 24 Μαΐου οι κατηγορίες Ανδρών και Γυναικών). Οι αγώνες θα διεξάγονται από τις 9 π.μ. έως τις 5 μ.μ.',
 
     //Contact us section
