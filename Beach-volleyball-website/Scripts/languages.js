@@ -2,7 +2,7 @@ const translations = {
     'en': {
         // Navigation & General
         'welcome-under-main': 'We are excited to announce our first tournament!',
-        'welcome': 'Welcome to the Ionian University Beach Volleyball Tournament',
+        'welcome': 'Welcome to the 1st Ionian University Beach Volleyball Tournament',
         'home': 'Home',
         'about': 'About',
         'register': 'Register',
@@ -36,13 +36,13 @@ const translations = {
 
         //Contact us section
         'contact-us':'Contact us',
-        'telephone':'phone'
+        'telephone':'phone:(+30) 6973029262'
 
     },
 
     'el': {
         // Navigation & General
-        'welcome': 'Καλώς ήρθατε στο Τουρνουά Beach Volley του Ιονίου Πανεπιστημίου',
+        'welcome': 'Καλώς ήρθατε στο 1ο Τουρνουά Beach Volley του Ιονίου Πανεπιστημίου',
         'home': 'Αρχική',
         'about': 'Πληροφορίες',
         'register': 'Εγγραφή',
@@ -75,7 +75,7 @@ const translations = {
 
     //Contact us section
         'contact-us':'Επικοινωνία',
-        'telephone':'Τηλέφωνο'
+        'telephone':'Τηλέφωνο: (+30) 6973029262'
     }
 };
 
